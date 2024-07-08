@@ -6,8 +6,8 @@ export default function Contact() {
       <h1 className="text-[#3A5A40] pt-10 text-3xl font-bold sm:ml-[13%] mb-8">
         CONTACT NOUS{" "}
       </h1>
-      <div className="flex sm:max-w-[80%] mx-auto justify-around flex-wrap">
-        <div class="px-6 py-3.5 text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
+      <div className="flex sm:max-w-[80%]  mx-auto justify-around flex-wrap">
+        <div class="px-6 py-3.5 text-base sm:w-auto w-[70%] m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
           <svg
             className="w-8 h-8 text-white me-2"
             aria-hidden="true"
@@ -34,11 +34,11 @@ export default function Contact() {
           </svg>
 
           <div>
-            <h3 className="text-white">TELEPHONE</h3>
-            <p className="text-black">+261 99 999 999</p>
+            <h3 className="text-white">MAIL</h3>
+            <p className="text-black text-xs">cogebimmobiliere@gmail.com</p>
           </div>
         </div>
-        <div class="px-6 py-3.5 text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
+        <div class="px-6 py-3.5 sm:w-auto w-[70%] text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -63,10 +63,10 @@ export default function Contact() {
 
           <div>
             <h3 className="text-white">TELEPHONE</h3>
-            <p className="text-black">+261 99 999 999</p>
+            <p className="text-black">+216 73 323 435</p>
           </div>
         </div>
-        <div class="px-6 py-3.5 text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
+        <div class="px-6 py-3.5 sm:w-auto w-[70%] text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -87,11 +87,11 @@ export default function Contact() {
           </svg>
 
           <div>
-            <h3 className="text-white">TELEPHONE</h3>
-            <p className="text-black">+261 99 999 999</p>
+            <h3 className="text-white">SITEWEB</h3>
+            <p className="text-black">cogeb/immobiliere.com</p>
           </div>
         </div>
-        <div class="px-6 py-3.5 text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
+        <div class="px-6 py-3.5 sm:w-auto w-[70%] text-base m-6 font-medium text-white inline-flex items-center bg-[#2D7A71]  focus:ring-4 focus:outline-none  rounded-3xl text-center ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -115,8 +115,8 @@ export default function Contact() {
           </svg>
 
           <div>
-            <h3 className="text-white">TELEPHONE</h3>
-            <p className="text-black">+261 99 999 999</p>
+            <h3 className="text-white uppercase">localisation</h3>
+            <p className="text-black"> Avenue de l'environnement, <br/> Sousse, Tunisia, 4000</p>
           </div>
         </div>
       </div>

@@ -57,8 +57,8 @@ export default function ContactHeader() {
                 <path d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z" />
               </svg>
             </div>
-            <h4 className="text-gray-800 text-base font-bold mt-4">Call us</h4>
-            <p className="text-sm text-gray-600 mt-2">+158 996 888</p>
+            <h4 className="text-gray-800 text-base font-bold mt-4">MAIL</h4>
+            <p className="text-sm text-gray-600 mt-2">cogebimmobiliere@gmail.com</p>
           </div>
           <div className="flex sm:max-w-[12vw] flex-col items-center justify-center rounded-lg w-full h-44 p-4 text-center bg-white shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)]">
             <div className="bg-[#0B4F48] rounded-full p-4">
